@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "757277149620",
+    "project_id": "peldev-flash-chat",
+    "storage_bucket": "peldev-flash-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757277149620:android:731978306f149d24c38ae1",
+        "android_client_info": {
+          "package_name": "com.example.jflashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757277149620-o69e76k32f34r5s5o1mq84uq6p73e1i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC725rOil9Mu78kvoVAFPRZrIy9E48AjdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757277149620-o69e76k32f34r5s5o1mq84uq6p73e1i2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757277149620-v85jonit01rgd4k0lgerhkq8snms7kf8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jflashchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
