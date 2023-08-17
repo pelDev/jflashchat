@@ -87,11 +87,11 @@ class _ChatScreenState extends State<ChatScreen> {
                       controller: messageTextController,
                     ),
                   ),
-                  FlatButton(
+                  TextButton(
                     onPressed: () {
                       sendMessage();
                     },
-                    child: Text(
+                    child: const Text(
                       'Send',
                       style: kSendButtonTextStyle,
                     ),
